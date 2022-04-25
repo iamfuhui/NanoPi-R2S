@@ -110,3 +110,4 @@
 * 支持 Full Cone NAT 
 delete passwall
 update clash core
+19.07
