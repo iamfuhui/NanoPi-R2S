@@ -72,17 +72,6 @@ jobs:
 
           svn co https://github.com/vernesong/OpenClash/trunk/luci-app-openclash
           
-          svn co https://github.com/xiaorouji/openwrt-passwall/tree/luci/luci-app-passwall
-          svn co https://github.com/xiaorouji/openwrt-passwall/tree/tcping
-          svn co https://github.com/xiaorouji/openwrt-passwall/tree/ssocks
-          svn co https://github.com/xiaorouji/openwrt-passwall/tree/trojan-plus
-          svn co https://github.com/xiaorouji/openwrt-passwall/tree/trojan-go
-          svn co https://github.com/xiaorouji/openwrt-passwall/tree/naiveproxy
-          svn co https://github.com/xiaorouji/openwrt-passwall/tree/brook
-          svn co https://github.com/xiaorouji/openwrt-passwall/tree/chinadns-ng
-          svn co https://github.com/xiaorouji/openwrt-passwall/tree/xray-core
-          svn co https://github.com/xiaorouji/openwrt-passwall/tree/xray-plugin
-          
           svn co https://github.com/songchenwen/nanopi-r2s/trunk/luci-app-r2sflasher
           
           svn co https://github.com/pymumu/smartdns/trunk/package/openwrt smartdns
